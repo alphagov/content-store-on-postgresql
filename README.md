@@ -1,3 +1,10 @@
+# **** DO NOT USE THIS REPOSITORY - IT WILL BE ARCHIVED SOON **** 
+
+This repository has been deprecated and merged back in to a [corresponding branch on the main content-store repository](https://github.com/alphagov/content-store/tree/port-to-postgresql).
+That branch is where ongoing development is taking place, this repo is purely being kept for a short while 'just in case' 
+
+
+
 # Content Store
 
 The Content Store is a MongoDB database of almost all published content on GOV.UK.
